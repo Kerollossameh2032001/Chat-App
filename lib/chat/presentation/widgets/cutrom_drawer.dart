@@ -1,7 +1,5 @@
-import 'package:chat_app/core/global/theme/app_color/app_dark_color.dart';
 import 'package:chat_app/core/global/theme/app_color/app_light_color.dart';
 import 'package:flutter/material.dart';
-import 'package:hexcolor/hexcolor.dart';
 
 class CustomDrawer extends StatelessWidget {
   const CustomDrawer({Key? key}) : super(key: key);
